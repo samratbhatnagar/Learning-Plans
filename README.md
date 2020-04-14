@@ -2,5 +2,5 @@
 
 ## Data & AI
 
-[Modern Data Warehouse 1](../../wiki/Data-&-AI:-Modern-Data-Warehouse)
+[Modern Data Warehouse](../../wiki/Data-&-AI:-Modern-Data-Warehouse)
 

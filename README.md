@@ -1,1 +1,1 @@
-# Welcome to the US OCP Scale & Enablement Team Learning Plans Prototype
+# US OCP Scale & Enablement Team Learning Plans Prototype
